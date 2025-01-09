@@ -10,8 +10,6 @@ This is a simple and interactive calculator built using HTML, CSS, and JavaScrip
 - **Clear and Delete**: Clear all input or remove the last digit.
 - **Error Handling**: Displays an error message for invalid inputs.
 
-## Getting Started
-
 ### Prerequisites
 
 To run this calculator, you need a modern web browser that supports HTML5, CSS3, and JavaScript.
